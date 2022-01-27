@@ -1,10 +1,10 @@
 
 [
     {
-        "name": "project1",
-        "live": "https://app.herokuapp.com/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "name": "Eyebleach",
+        "live": "https://chrismcclarin.github.io/Eyebleach/",
+        "git": "https://github.com/chrismcclarin/Eyebleach",
+        "image": "https://user-images.githubusercontent.com/95185347/146482261-d6dfa780-e4d3-4cec-8a0e-85b3ed5b477c.png"
     },
     {
         "name": "project2",
